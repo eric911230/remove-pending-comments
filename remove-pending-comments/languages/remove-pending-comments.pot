@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-27 11:27+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: inc/admin.php:34 inc/admin.php:35 inc/admin.php:91 inc/admin.php:108
+msgid "Remove Pending Comments"
+msgstr ""
+
+#: inc/admin.php:48
+msgid "I am sure I want to remove all pending comments"
+msgstr ""
+
+#: inc/admin.php:75
+msgid "Just removed all pending comments. Please check!"
+msgstr ""
+
+#: inc/admin.php:79
+msgid "Please try again. Did you type the text properly?"
+msgstr ""
+
+#: inc/admin.php:84
+msgid "It looks like there aren't any pending comments!"
+msgstr ""
+
+#: inc/admin.php:95
+msgid ""
+"You have to type the following text into the form to remove all pending "
+"comments:"
+msgstr ""
